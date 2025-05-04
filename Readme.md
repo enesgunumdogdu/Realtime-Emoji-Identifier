@@ -1,4 +1,4 @@
-# Emoji Identifier
+# Realtime Emoji Identifier
 
 A web application that analyzes facial expressions and displays corresponding emojis in real-time.
 
