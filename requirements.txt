@@ -3,4 +3,8 @@ opencv-python==4.9.0.80
 mediapipe==0.10.21
 numpy==1.26.4
 setuptools==69.1.1
-wheel==0.42.0 
+wheel==0.42.0
+tensorflow
+keras
+pillow
+scikit-learn 
